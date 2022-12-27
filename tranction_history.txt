@@ -1,0 +1,4 @@
+Buyer-ID-123,Product-Id-127,Seller-ID-123,Seller-ID-45.Bidding-Price-50
+Buyer-ID-123,Product-Id-127,Seller-ID-123,Seller-ID-45.Bidding-Price-160
+Buyer-ID-123,Product-Id-127,Seller-ID-123,Seller-ID-45.Bidding-Price-50
+Buyer-ID-123,Product-Id-127,Seller-ID-123,Seller-ID-45.Bidding-Price-160
